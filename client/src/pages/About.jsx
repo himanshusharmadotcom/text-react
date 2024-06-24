@@ -7,7 +7,7 @@ const About = () => {
 
     return (
         <>
-            <h1>This is about app to pull again pull to check git fetch.</h1>
+            <h1>To check git check out.</h1>
             <h2>{cntState ? "Context State is Enabled" : "Context state is Disabled."}</h2>
             <button onClick={checkCnt}>Check Context API</button>
         </>
